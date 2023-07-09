@@ -11,8 +11,11 @@
 Пример:
 
 5/6 - 3/4 = 1/12
+
 last * -20= -5/3
+
 13/6 + last = 1/2
+
 last + last = 1
 
 Также обеспечена сборка модулей для работы с рациональными числами в виде динамической разделяемой библиотеки и использование этой библиотеки в программе calc. 
@@ -32,8 +35,11 @@ the operator is specified by one of the symbols for arithmetic operations +-*/.
 Example:
 
 5/6 - 3/4 = 1/12
+
 last*-20 = -5/3
+
 13/6 + last = 1/2
+
 last + last = 1
 
 Also provided is the assembly of modules for working with rational numbers in the form of a dynamic shared library and the use of this library in the calc program.
